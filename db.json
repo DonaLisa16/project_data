@@ -1,0 +1,3984 @@
+{
+  "donations" : [
+  {
+    "eventDate": "2025-01-01",
+    "country": "Ireland",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-01",
+    "country": "USA",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-01",
+    "country": "Canada",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-01-01",
+    "country": "Europe",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-01-02",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-01-02",
+    "country": "USA",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-01-02",
+    "country": "Canada",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-01-02",
+    "country": "Europe",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-01-03",
+    "country": "Ireland",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-01-03",
+    "country": "USA",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-01-03",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-01-03",
+    "country": "Europe",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-01-04",
+    "country": "Ireland",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-04",
+    "country": "USA",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-01-04",
+    "country": "Canada",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-01-04",
+    "country": "Europe",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-01-05",
+    "country": "Ireland",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-01-05",
+    "country": "USA",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-01-05",
+    "country": "Canada",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-01-05",
+    "country": "Europe",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-01-06",
+    "country": "Ireland",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-06",
+    "country": "USA",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-01-06",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-06",
+    "country": "Europe",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-01-07",
+    "country": "Ireland",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-01-07",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-01-07",
+    "country": "Canada",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-07",
+    "country": "Europe",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-01-08",
+    "country": "Ireland",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-01-08",
+    "country": "USA",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-01-08",
+    "country": "Canada",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-01-08",
+    "country": "Europe",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-01-09",
+    "country": "Ireland",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-09",
+    "country": "USA",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-09",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-01-09",
+    "country": "Europe",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-01-10",
+    "country": "Ireland",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-10",
+    "country": "USA",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-01-10",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-10",
+    "country": "Europe",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-01-11",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-01-11",
+    "country": "USA",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-01-11",
+    "country": "Canada",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-01-11",
+    "country": "Europe",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-01-12",
+    "country": "Ireland",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-01-12",
+    "country": "USA",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-01-12",
+    "country": "Canada",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-01-12",
+    "country": "Europe",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-01-13",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-01-13",
+    "country": "USA",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-01-13",
+    "country": "Canada",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-13",
+    "country": "Europe",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-01-14",
+    "country": "Ireland",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-01-14",
+    "country": "USA",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-14",
+    "country": "Canada",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-14",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-01-15",
+    "country": "Ireland",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-15",
+    "country": "USA",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-01-15",
+    "country": "Canada",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-01-15",
+    "country": "Europe",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-01-16",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-01-16",
+    "country": "USA",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-01-16",
+    "country": "Canada",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-01-16",
+    "country": "Europe",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-01-17",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-01-17",
+    "country": "USA",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-01-17",
+    "country": "Canada",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-01-17",
+    "country": "Europe",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-01-18",
+    "country": "Ireland",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-01-18",
+    "country": "USA",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-18",
+    "country": "Canada",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-01-18",
+    "country": "Europe",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-01-19",
+    "country": "Ireland",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-01-19",
+    "country": "USA",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-01-19",
+    "country": "Canada",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-01-19",
+    "country": "Europe",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-01-20",
+    "country": "Ireland",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-01-20",
+    "country": "USA",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-01-20",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-01-20",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-21",
+    "country": "Ireland",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-01-21",
+    "country": "USA",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-01-21",
+    "country": "Canada",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-01-21",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-01-22",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-01-22",
+    "country": "USA",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-01-22",
+    "country": "Canada",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-01-22",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-01-23",
+    "country": "Ireland",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-01-23",
+    "country": "USA",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-01-23",
+    "country": "Canada",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-23",
+    "country": "Europe",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-01-24",
+    "country": "Ireland",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-01-24",
+    "country": "USA",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-01-24",
+    "country": "Canada",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-01-24",
+    "country": "Europe",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-01-25",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-01-25",
+    "country": "USA",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-01-25",
+    "country": "Canada",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-01-25",
+    "country": "Europe",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-01-26",
+    "country": "Ireland",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-01-26",
+    "country": "USA",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-01-26",
+    "country": "Canada",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-01-26",
+    "country": "Europe",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-01-27",
+    "country": "Ireland",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-01-27",
+    "country": "USA",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-01-27",
+    "country": "Canada",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-01-27",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-01-28",
+    "country": "Ireland",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-01-28",
+    "country": "USA",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-01-28",
+    "country": "Canada",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-01-28",
+    "country": "Europe",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-01-29",
+    "country": "Ireland",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-01-29",
+    "country": "USA",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-01-29",
+    "country": "Canada",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-01-29",
+    "country": "Europe",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-01-30",
+    "country": "Ireland",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-01-30",
+    "country": "USA",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-01-30",
+    "country": "Canada",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-01-30",
+    "country": "Europe",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-01-31",
+    "country": "Ireland",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-01-31",
+    "country": "USA",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-01-31",
+    "country": "Canada",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-01-31",
+    "country": "Europe",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-02-01",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-02-01",
+    "country": "USA",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-02-01",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-02-01",
+    "country": "Europe",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-02-02",
+    "country": "Ireland",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-02-02",
+    "country": "USA",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-02-02",
+    "country": "Canada",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-02-02",
+    "country": "Europe",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-02-03",
+    "country": "Ireland",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-02-03",
+    "country": "USA",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-02-03",
+    "country": "Canada",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-03",
+    "country": "Europe",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-02-04",
+    "country": "Ireland",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-02-04",
+    "country": "USA",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-02-04",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-02-04",
+    "country": "Europe",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-02-05",
+    "country": "Ireland",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-02-05",
+    "country": "USA",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-02-05",
+    "country": "Canada",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-02-05",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-02-06",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-02-06",
+    "country": "USA",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-02-06",
+    "country": "Canada",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-02-06",
+    "country": "Europe",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-02-07",
+    "country": "Ireland",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-02-07",
+    "country": "USA",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-02-07",
+    "country": "Canada",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-02-07",
+    "country": "Europe",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-02-08",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-02-08",
+    "country": "USA",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-02-08",
+    "country": "Canada",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-02-08",
+    "country": "Europe",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-02-09",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-02-09",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-02-09",
+    "country": "Canada",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-02-09",
+    "country": "Europe",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-10",
+    "country": "Ireland",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-02-10",
+    "country": "USA",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-02-10",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-02-10",
+    "country": "Europe",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-02-11",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-02-11",
+    "country": "USA",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-02-11",
+    "country": "Canada",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-02-11",
+    "country": "Europe",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-02-12",
+    "country": "Ireland",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-02-12",
+    "country": "USA",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-02-12",
+    "country": "Canada",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-02-12",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-02-13",
+    "country": "Ireland",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-13",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-02-13",
+    "country": "Canada",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-13",
+    "country": "Europe",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-02-14",
+    "country": "Ireland",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-02-14",
+    "country": "USA",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-02-14",
+    "country": "Canada",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-02-14",
+    "country": "Europe",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-02-15",
+    "country": "Ireland",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-02-15",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-02-15",
+    "country": "Canada",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-02-15",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-02-16",
+    "country": "Ireland",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-02-16",
+    "country": "USA",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-02-16",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-02-16",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-02-17",
+    "country": "Ireland",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-02-17",
+    "country": "USA",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-02-17",
+    "country": "Canada",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-02-17",
+    "country": "Europe",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-02-18",
+    "country": "Ireland",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-02-18",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-02-18",
+    "country": "Canada",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-02-18",
+    "country": "Europe",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-02-19",
+    "country": "Ireland",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-02-19",
+    "country": "USA",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-02-19",
+    "country": "Canada",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-02-19",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-02-20",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-02-20",
+    "country": "USA",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-02-20",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-02-20",
+    "country": "Europe",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-02-21",
+    "country": "Ireland",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-02-21",
+    "country": "USA",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-02-21",
+    "country": "Canada",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-02-21",
+    "country": "Europe",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-02-22",
+    "country": "Ireland",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-02-22",
+    "country": "USA",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-02-22",
+    "country": "Canada",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-02-22",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-02-23",
+    "country": "Ireland",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-02-23",
+    "country": "USA",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-23",
+    "country": "Canada",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-02-23",
+    "country": "Europe",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-02-24",
+    "country": "Ireland",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-02-24",
+    "country": "USA",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-02-24",
+    "country": "Canada",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-02-24",
+    "country": "Europe",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-02-25",
+    "country": "Ireland",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-02-25",
+    "country": "USA",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-02-25",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-02-25",
+    "country": "Europe",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-02-26",
+    "country": "Ireland",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-02-26",
+    "country": "USA",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-02-26",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-02-26",
+    "country": "Europe",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-02-27",
+    "country": "Ireland",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-02-27",
+    "country": "USA",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-02-27",
+    "country": "Canada",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-02-27",
+    "country": "Europe",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-02-28",
+    "country": "Ireland",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-02-28",
+    "country": "USA",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-02-28",
+    "country": "Canada",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-02-28",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-03-01",
+    "country": "Ireland",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-03-01",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-03-01",
+    "country": "Canada",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-03-01",
+    "country": "Europe",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-03-02",
+    "country": "Ireland",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-03-02",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-03-02",
+    "country": "Canada",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-03-02",
+    "country": "Europe",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-03-03",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-03-03",
+    "country": "USA",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-03-03",
+    "country": "Canada",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-03-03",
+    "country": "Europe",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-03-04",
+    "country": "Ireland",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-03-04",
+    "country": "USA",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-03-04",
+    "country": "Canada",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-03-04",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-03-05",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-03-05",
+    "country": "USA",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-03-05",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-03-05",
+    "country": "Europe",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-03-06",
+    "country": "Ireland",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-03-06",
+    "country": "USA",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-03-06",
+    "country": "Canada",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-03-06",
+    "country": "Europe",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-03-07",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-03-07",
+    "country": "USA",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-03-07",
+    "country": "Canada",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-03-07",
+    "country": "Europe",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-03-08",
+    "country": "Ireland",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-03-08",
+    "country": "USA",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-03-08",
+    "country": "Canada",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-03-08",
+    "country": "Europe",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-03-09",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-03-09",
+    "country": "USA",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-03-09",
+    "country": "Canada",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-03-09",
+    "country": "Europe",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-03-10",
+    "country": "Ireland",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-03-10",
+    "country": "USA",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-03-10",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-03-10",
+    "country": "Europe",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-03-11",
+    "country": "Ireland",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-03-11",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-03-11",
+    "country": "Canada",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-03-11",
+    "country": "Europe",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-03-12",
+    "country": "Ireland",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-03-12",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-03-12",
+    "country": "Canada",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-03-12",
+    "country": "Europe",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-03-13",
+    "country": "Ireland",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-03-13",
+    "country": "USA",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-03-13",
+    "country": "Canada",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-03-13",
+    "country": "Europe",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-03-14",
+    "country": "Ireland",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-03-14",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-03-14",
+    "country": "Canada",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-03-14",
+    "country": "Europe",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-03-15",
+    "country": "Ireland",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-03-15",
+    "country": "USA",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-03-15",
+    "country": "Canada",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-03-15",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-03-16",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-03-16",
+    "country": "USA",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-03-16",
+    "country": "Canada",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-03-16",
+    "country": "Europe",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-03-17",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-03-17",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-03-17",
+    "country": "Canada",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-03-17",
+    "country": "Europe",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-03-18",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-03-18",
+    "country": "USA",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-03-18",
+    "country": "Canada",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-03-18",
+    "country": "Europe",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-03-19",
+    "country": "Ireland",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-03-19",
+    "country": "USA",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-03-19",
+    "country": "Canada",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-03-19",
+    "country": "Europe",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-03-20",
+    "country": "Ireland",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-03-20",
+    "country": "USA",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-03-20",
+    "country": "Canada",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-03-20",
+    "country": "Europe",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-03-21",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-03-21",
+    "country": "USA",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-03-21",
+    "country": "Canada",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-03-21",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-03-22",
+    "country": "Ireland",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-03-22",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-03-22",
+    "country": "Canada",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-03-22",
+    "country": "Europe",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-03-23",
+    "country": "Ireland",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-03-23",
+    "country": "USA",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-03-23",
+    "country": "Canada",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-03-23",
+    "country": "Europe",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-03-24",
+    "country": "Ireland",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-03-24",
+    "country": "USA",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-03-24",
+    "country": "Canada",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-03-24",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-03-25",
+    "country": "Ireland",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-03-25",
+    "country": "USA",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-03-25",
+    "country": "Canada",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-03-25",
+    "country": "Europe",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-03-26",
+    "country": "Ireland",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-03-26",
+    "country": "USA",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-03-26",
+    "country": "Canada",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-03-26",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-03-27",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-03-27",
+    "country": "USA",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-03-27",
+    "country": "Canada",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-03-27",
+    "country": "Europe",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-03-28",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-03-28",
+    "country": "USA",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-03-28",
+    "country": "Canada",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-03-28",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-03-29",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-03-29",
+    "country": "USA",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-03-29",
+    "country": "Canada",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-03-29",
+    "country": "Europe",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-03-30",
+    "country": "Ireland",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-03-30",
+    "country": "USA",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-03-30",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-03-30",
+    "country": "Europe",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-03-31",
+    "country": "Ireland",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-03-31",
+    "country": "USA",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-03-31",
+    "country": "Canada",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-03-31",
+    "country": "Europe",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-04-01",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-04-01",
+    "country": "USA",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-04-01",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-04-01",
+    "country": "Europe",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-04-02",
+    "country": "Ireland",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-04-02",
+    "country": "USA",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-04-02",
+    "country": "Canada",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-04-02",
+    "country": "Europe",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-04-03",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-04-03",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-04-03",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-04-03",
+    "country": "Europe",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-04-04",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-04-04",
+    "country": "USA",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-04-04",
+    "country": "Canada",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-04-04",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-04-05",
+    "country": "Ireland",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-04-05",
+    "country": "USA",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-04-05",
+    "country": "Canada",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-04-05",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-04-06",
+    "country": "Ireland",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-04-06",
+    "country": "USA",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-04-06",
+    "country": "Canada",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-04-06",
+    "country": "Europe",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-04-07",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-04-07",
+    "country": "USA",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-04-07",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-04-07",
+    "country": "Europe",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-04-08",
+    "country": "Ireland",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-04-08",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-04-08",
+    "country": "Canada",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-04-08",
+    "country": "Europe",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-04-09",
+    "country": "Ireland",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-04-09",
+    "country": "USA",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-04-09",
+    "country": "Canada",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-04-09",
+    "country": "Europe",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-04-10",
+    "country": "Ireland",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-04-10",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-04-10",
+    "country": "Canada",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-04-10",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-04-11",
+    "country": "Ireland",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-04-11",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-04-11",
+    "country": "Canada",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-04-11",
+    "country": "Europe",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-04-12",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-04-12",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-04-12",
+    "country": "Canada",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-04-12",
+    "country": "Europe",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-04-13",
+    "country": "Ireland",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-04-13",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-04-13",
+    "country": "Canada",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-04-13",
+    "country": "Europe",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-04-14",
+    "country": "Ireland",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-04-14",
+    "country": "USA",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-04-14",
+    "country": "Canada",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-04-14",
+    "country": "Europe",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-04-15",
+    "country": "Ireland",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-04-15",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-04-15",
+    "country": "Canada",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-04-15",
+    "country": "Europe",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-04-16",
+    "country": "Ireland",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-04-16",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-04-16",
+    "country": "Canada",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-04-16",
+    "country": "Europe",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-04-17",
+    "country": "Ireland",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-04-17",
+    "country": "USA",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-04-17",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-04-17",
+    "country": "Europe",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-04-18",
+    "country": "Ireland",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-04-18",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-04-18",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-04-18",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-04-19",
+    "country": "Ireland",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-04-19",
+    "country": "USA",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-04-19",
+    "country": "Canada",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-04-19",
+    "country": "Europe",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-04-20",
+    "country": "Ireland",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-04-20",
+    "country": "USA",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-04-20",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-04-20",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-04-21",
+    "country": "Ireland",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-04-21",
+    "country": "USA",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-04-21",
+    "country": "Canada",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-04-21",
+    "country": "Europe",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-04-22",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-04-22",
+    "country": "USA",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-04-22",
+    "country": "Canada",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-04-22",
+    "country": "Europe",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-04-23",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-04-23",
+    "country": "USA",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-04-23",
+    "country": "Canada",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-04-23",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-04-24",
+    "country": "Ireland",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-04-24",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-04-24",
+    "country": "Canada",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-04-24",
+    "country": "Europe",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-04-25",
+    "country": "Ireland",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-04-25",
+    "country": "USA",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-04-25",
+    "country": "Canada",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-04-25",
+    "country": "Europe",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-04-26",
+    "country": "Ireland",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-04-26",
+    "country": "USA",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-04-26",
+    "country": "Canada",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-04-26",
+    "country": "Europe",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-04-27",
+    "country": "Ireland",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-04-27",
+    "country": "USA",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-04-27",
+    "country": "Canada",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-04-27",
+    "country": "Europe",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-04-28",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-04-28",
+    "country": "USA",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-04-28",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-04-28",
+    "country": "Europe",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-04-29",
+    "country": "Ireland",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-04-29",
+    "country": "USA",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-04-29",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-04-29",
+    "country": "Europe",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-04-30",
+    "country": "Ireland",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-04-30",
+    "country": "USA",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-04-30",
+    "country": "Canada",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-04-30",
+    "country": "Europe",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-05-01",
+    "country": "Ireland",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-05-01",
+    "country": "USA",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-05-01",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-05-01",
+    "country": "Europe",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-05-02",
+    "country": "Ireland",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-05-02",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-05-02",
+    "country": "Canada",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-05-02",
+    "country": "Europe",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-05-03",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-05-03",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-05-03",
+    "country": "Canada",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-05-03",
+    "country": "Europe",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-05-04",
+    "country": "Ireland",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-05-04",
+    "country": "USA",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-05-04",
+    "country": "Canada",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-05-04",
+    "country": "Europe",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-05-05",
+    "country": "Ireland",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-05-05",
+    "country": "USA",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-05-05",
+    "country": "Canada",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-05-05",
+    "country": "Europe",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-05-06",
+    "country": "Ireland",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-05-06",
+    "country": "USA",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-05-06",
+    "country": "Canada",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-05-06",
+    "country": "Europe",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-05-07",
+    "country": "Ireland",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-05-07",
+    "country": "USA",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-05-07",
+    "country": "Canada",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-05-07",
+    "country": "Europe",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-05-08",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-05-08",
+    "country": "USA",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-05-08",
+    "country": "Canada",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-05-08",
+    "country": "Europe",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-05-09",
+    "country": "Ireland",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-05-09",
+    "country": "USA",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-05-09",
+    "country": "Canada",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-05-09",
+    "country": "Europe",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-05-10",
+    "country": "Ireland",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-05-10",
+    "country": "USA",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-05-10",
+    "country": "Canada",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-05-10",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-05-11",
+    "country": "Ireland",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-05-11",
+    "country": "USA",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-05-11",
+    "country": "Canada",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-05-11",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-05-12",
+    "country": "Ireland",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-05-12",
+    "country": "USA",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-05-12",
+    "country": "Canada",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-05-12",
+    "country": "Europe",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-05-13",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-05-13",
+    "country": "USA",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-05-13",
+    "country": "Canada",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-05-13",
+    "country": "Europe",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-05-14",
+    "country": "Ireland",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-05-14",
+    "country": "USA",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-05-14",
+    "country": "Canada",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-05-14",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-05-15",
+    "country": "Ireland",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-05-15",
+    "country": "USA",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-05-15",
+    "country": "Canada",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-05-15",
+    "country": "Europe",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-05-16",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-05-16",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-05-16",
+    "country": "Canada",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-05-16",
+    "country": "Europe",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-05-17",
+    "country": "Ireland",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-05-17",
+    "country": "USA",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-05-17",
+    "country": "Canada",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-05-17",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-05-18",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-05-18",
+    "country": "USA",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-05-18",
+    "country": "Canada",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-05-18",
+    "country": "Europe",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-05-19",
+    "country": "Ireland",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-05-19",
+    "country": "USA",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-05-19",
+    "country": "Canada",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-05-19",
+    "country": "Europe",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-05-20",
+    "country": "Ireland",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-05-20",
+    "country": "USA",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-05-20",
+    "country": "Canada",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-05-20",
+    "country": "Europe",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-05-21",
+    "country": "Ireland",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-05-21",
+    "country": "USA",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-05-21",
+    "country": "Canada",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-05-21",
+    "country": "Europe",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-05-22",
+    "country": "Ireland",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-05-22",
+    "country": "USA",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-05-22",
+    "country": "Canada",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-05-22",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-05-23",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-05-23",
+    "country": "USA",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-05-23",
+    "country": "Canada",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-05-23",
+    "country": "Europe",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-05-24",
+    "country": "Ireland",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-05-24",
+    "country": "USA",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-05-24",
+    "country": "Canada",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-05-24",
+    "country": "Europe",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-05-25",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-05-25",
+    "country": "USA",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-05-25",
+    "country": "Canada",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-05-25",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-05-26",
+    "country": "Ireland",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-05-26",
+    "country": "USA",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-05-26",
+    "country": "Canada",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-05-26",
+    "country": "Europe",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-05-27",
+    "country": "Ireland",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-05-27",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-05-27",
+    "country": "Canada",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-05-27",
+    "country": "Europe",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-05-28",
+    "country": "Ireland",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-05-28",
+    "country": "USA",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-05-28",
+    "country": "Canada",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-05-28",
+    "country": "Europe",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-05-29",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-05-29",
+    "country": "USA",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-05-29",
+    "country": "Canada",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-05-29",
+    "country": "Europe",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-05-30",
+    "country": "Ireland",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-05-30",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-05-30",
+    "country": "Canada",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-05-30",
+    "country": "Europe",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-05-31",
+    "country": "Ireland",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-05-31",
+    "country": "USA",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-05-31",
+    "country": "Canada",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-05-31",
+    "country": "Europe",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-06-01",
+    "country": "Ireland",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-06-01",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-01",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-06-01",
+    "country": "Europe",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-06-02",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-06-02",
+    "country": "USA",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-06-02",
+    "country": "Canada",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-06-02",
+    "country": "Europe",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-06-03",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-06-03",
+    "country": "USA",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-06-03",
+    "country": "Canada",
+    "donationAmount": 54
+  },
+  {
+    "eventDate": "2025-06-03",
+    "country": "Europe",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-06-04",
+    "country": "Ireland",
+    "donationAmount": 67
+  },
+  {
+    "eventDate": "2025-06-04",
+    "country": "USA",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-06-04",
+    "country": "Canada",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-06-04",
+    "country": "Europe",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-06-05",
+    "country": "Ireland",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-06-05",
+    "country": "USA",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-06-05",
+    "country": "Canada",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-06-05",
+    "country": "Europe",
+    "donationAmount": 62
+  },
+  {
+    "eventDate": "2025-06-06",
+    "country": "Ireland",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-06",
+    "country": "USA",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-06-06",
+    "country": "Canada",
+    "donationAmount": 57
+  },
+  {
+    "eventDate": "2025-06-06",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-06-07",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-06-07",
+    "country": "USA",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-06-07",
+    "country": "Canada",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-06-07",
+    "country": "Europe",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-06-08",
+    "country": "Ireland",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-06-08",
+    "country": "USA",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-06-08",
+    "country": "Canada",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-06-08",
+    "country": "Europe",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-06-09",
+    "country": "Ireland",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-06-09",
+    "country": "USA",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-06-09",
+    "country": "Canada",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-06-09",
+    "country": "Europe",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-06-10",
+    "country": "Ireland",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-06-10",
+    "country": "USA",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-06-10",
+    "country": "Canada",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-06-10",
+    "country": "Europe",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-06-11",
+    "country": "Ireland",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-06-11",
+    "country": "USA",
+    "donationAmount": 97
+  },
+  {
+    "eventDate": "2025-06-11",
+    "country": "Canada",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-06-11",
+    "country": "Europe",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-06-12",
+    "country": "Ireland",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-06-12",
+    "country": "USA",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-06-12",
+    "country": "Canada",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-06-12",
+    "country": "Europe",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-06-13",
+    "country": "Ireland",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-06-13",
+    "country": "USA",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-06-13",
+    "country": "Canada",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-06-13",
+    "country": "Europe",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-06-14",
+    "country": "Ireland",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-06-14",
+    "country": "USA",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-06-14",
+    "country": "Canada",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-06-14",
+    "country": "Europe",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-06-15",
+    "country": "Ireland",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-06-15",
+    "country": "USA",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-06-15",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-06-15",
+    "country": "Europe",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-06-16",
+    "country": "Ireland",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-06-16",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-06-16",
+    "country": "Canada",
+    "donationAmount": 58
+  },
+  {
+    "eventDate": "2025-06-16",
+    "country": "Europe",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-06-17",
+    "country": "Ireland",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-06-17",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-06-17",
+    "country": "Canada",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-17",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-18",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-06-18",
+    "country": "USA",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-06-18",
+    "country": "Canada",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-18",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-06-19",
+    "country": "Ireland",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-06-19",
+    "country": "USA",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-06-19",
+    "country": "Canada",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-06-19",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-06-20",
+    "country": "Ireland",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-06-20",
+    "country": "USA",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-06-20",
+    "country": "Canada",
+    "donationAmount": 80
+  },
+  {
+    "eventDate": "2025-06-20",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-06-21",
+    "country": "Ireland",
+    "donationAmount": 64
+  },
+  {
+    "eventDate": "2025-06-21",
+    "country": "USA",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-06-21",
+    "country": "Canada",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-06-21",
+    "country": "Europe",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-06-22",
+    "country": "Ireland",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-06-22",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-06-22",
+    "country": "Canada",
+    "donationAmount": 66
+  },
+  {
+    "eventDate": "2025-06-22",
+    "country": "Europe",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-06-23",
+    "country": "Ireland",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-06-23",
+    "country": "USA",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-06-23",
+    "country": "Canada",
+    "donationAmount": 49
+  },
+  {
+    "eventDate": "2025-06-23",
+    "country": "Europe",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-06-24",
+    "country": "Ireland",
+    "donationAmount": 51
+  },
+  {
+    "eventDate": "2025-06-24",
+    "country": "USA",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-06-24",
+    "country": "Canada",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-06-24",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-06-25",
+    "country": "Ireland",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-06-25",
+    "country": "USA",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-06-25",
+    "country": "Canada",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-06-25",
+    "country": "Europe",
+    "donationAmount": 100
+  },
+  {
+    "eventDate": "2025-06-26",
+    "country": "Ireland",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-06-26",
+    "country": "USA",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-06-26",
+    "country": "Canada",
+    "donationAmount": 84
+  },
+  {
+    "eventDate": "2025-06-26",
+    "country": "Europe",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-06-27",
+    "country": "Ireland",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-06-27",
+    "country": "USA",
+    "donationAmount": 72
+  },
+  {
+    "eventDate": "2025-06-27",
+    "country": "Canada",
+    "donationAmount": 45
+  },
+  {
+    "eventDate": "2025-06-27",
+    "country": "Europe",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-06-28",
+    "country": "Ireland",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-06-28",
+    "country": "USA",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-06-28",
+    "country": "Canada",
+    "donationAmount": 90
+  },
+  {
+    "eventDate": "2025-06-28",
+    "country": "Europe",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-06-29",
+    "country": "Ireland",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-06-29",
+    "country": "USA",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-06-29",
+    "country": "Canada",
+    "donationAmount": 79
+  },
+  {
+    "eventDate": "2025-06-29",
+    "country": "Europe",
+    "donationAmount": 82
+  },
+  {
+    "eventDate": "2025-06-30",
+    "country": "Ireland",
+    "donationAmount": 89
+  },
+  {
+    "eventDate": "2025-06-30",
+    "country": "USA",
+    "donationAmount": 52
+  },
+  {
+    "eventDate": "2025-06-30",
+    "country": "Canada",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-06-30",
+    "country": "Europe",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-07-01",
+    "country": "Ireland",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-07-01",
+    "country": "USA",
+    "donationAmount": 50
+  },
+  {
+    "eventDate": "2025-07-01",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-07-01",
+    "country": "Europe",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-07-02",
+    "country": "Ireland",
+    "donationAmount": 73
+  },
+  {
+    "eventDate": "2025-07-02",
+    "country": "USA",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-07-02",
+    "country": "Canada",
+    "donationAmount": 41
+  },
+  {
+    "eventDate": "2025-07-02",
+    "country": "Europe",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-07-03",
+    "country": "Ireland",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-07-03",
+    "country": "USA",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-07-03",
+    "country": "Canada",
+    "donationAmount": 71
+  },
+  {
+    "eventDate": "2025-07-03",
+    "country": "Europe",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-07-04",
+    "country": "Ireland",
+    "donationAmount": 53
+  },
+  {
+    "eventDate": "2025-07-04",
+    "country": "USA",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-07-04",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-07-04",
+    "country": "Europe",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-07-05",
+    "country": "Ireland",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-07-05",
+    "country": "USA",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-07-05",
+    "country": "Canada",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-07-05",
+    "country": "Europe",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-07-06",
+    "country": "Ireland",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-07-06",
+    "country": "USA",
+    "donationAmount": 60
+  },
+  {
+    "eventDate": "2025-07-06",
+    "country": "Canada",
+    "donationAmount": 56
+  },
+  {
+    "eventDate": "2025-07-06",
+    "country": "Europe",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-07-07",
+    "country": "Ireland",
+    "donationAmount": 85
+  },
+  {
+    "eventDate": "2025-07-07",
+    "country": "USA",
+    "donationAmount": 40
+  },
+  {
+    "eventDate": "2025-07-07",
+    "country": "Canada",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-07-07",
+    "country": "Europe",
+    "donationAmount": 70
+  },
+  {
+    "eventDate": "2025-07-08",
+    "country": "Ireland",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-07-08",
+    "country": "USA",
+    "donationAmount": 77
+  },
+  {
+    "eventDate": "2025-07-08",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-07-08",
+    "country": "Europe",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-07-09",
+    "country": "Ireland",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-07-09",
+    "country": "USA",
+    "donationAmount": 93
+  },
+  {
+    "eventDate": "2025-07-09",
+    "country": "Canada",
+    "donationAmount": 63
+  },
+  {
+    "eventDate": "2025-07-09",
+    "country": "Europe",
+    "donationAmount": 55
+  },
+  {
+    "eventDate": "2025-07-10",
+    "country": "Ireland",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-07-10",
+    "country": "USA",
+    "donationAmount": 61
+  },
+  {
+    "eventDate": "2025-07-10",
+    "country": "Canada",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-07-10",
+    "country": "Europe",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-07-11",
+    "country": "Ireland",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-07-11",
+    "country": "USA",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-07-11",
+    "country": "Canada",
+    "donationAmount": 86
+  },
+  {
+    "eventDate": "2025-07-11",
+    "country": "Europe",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-07-12",
+    "country": "Ireland",
+    "donationAmount": 95
+  },
+  {
+    "eventDate": "2025-07-12",
+    "country": "USA",
+    "donationAmount": 47
+  },
+  {
+    "eventDate": "2025-07-12",
+    "country": "Canada",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-07-12",
+    "country": "Europe",
+    "donationAmount": 59
+  },
+  {
+    "eventDate": "2025-07-13",
+    "country": "Ireland",
+    "donationAmount": 68
+  },
+  {
+    "eventDate": "2025-07-13",
+    "country": "USA",
+    "donationAmount": 43
+  },
+  {
+    "eventDate": "2025-07-13",
+    "country": "Canada",
+    "donationAmount": 44
+  },
+  {
+    "eventDate": "2025-07-13",
+    "country": "Europe",
+    "donationAmount": 91
+  },
+  {
+    "eventDate": "2025-07-14",
+    "country": "Ireland",
+    "donationAmount": 83
+  },
+  {
+    "eventDate": "2025-07-14",
+    "country": "USA",
+    "donationAmount": 98
+  },
+  {
+    "eventDate": "2025-07-14",
+    "country": "Canada",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-07-14",
+    "country": "Europe",
+    "donationAmount": 92
+  },
+  {
+    "eventDate": "2025-07-15",
+    "country": "Ireland",
+    "donationAmount": 87
+  },
+  {
+    "eventDate": "2025-07-15",
+    "country": "USA",
+    "donationAmount": 76
+  },
+  {
+    "eventDate": "2025-07-15",
+    "country": "Canada",
+    "donationAmount": 48
+  },
+  {
+    "eventDate": "2025-07-15",
+    "country": "Europe",
+    "donationAmount": 75
+  },
+  {
+    "eventDate": "2025-07-16",
+    "country": "Ireland",
+    "donationAmount": 42
+  },
+  {
+    "eventDate": "2025-07-16",
+    "country": "USA",
+    "donationAmount": 65
+  },
+  {
+    "eventDate": "2025-07-16",
+    "country": "Canada",
+    "donationAmount": 81
+  },
+  {
+    "eventDate": "2025-07-16",
+    "country": "Europe",
+    "donationAmount": 78
+  },
+  {
+    "eventDate": "2025-07-17",
+    "country": "Ireland",
+    "donationAmount": 99
+  },
+  {
+    "eventDate": "2025-07-17",
+    "country": "USA",
+    "donationAmount": 96
+  },
+  {
+    "eventDate": "2025-07-17",
+    "country": "Canada",
+    "donationAmount": 94
+  },
+  {
+    "eventDate": "2025-07-17",
+    "country": "Europe",
+    "donationAmount": 74
+  },
+  {
+    "eventDate": "2025-07-18",
+    "country": "Ireland",
+    "donationAmount": 46
+  },
+  {
+    "eventDate": "2025-07-18",
+    "country": "USA",
+    "donationAmount": 88
+  },
+  {
+    "eventDate": "2025-07-18",
+    "country": "Canada",
+    "donationAmount": 69
+  },
+  {
+    "eventDate": "2025-07-18",
+    "country": "Europe",
+    "donationAmount": 66
+  }
+]
+}
